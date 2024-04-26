@@ -1,4 +1,8 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+NAME : ALIYA SHEEMA
+
+REGISTER NUMBER : 212223230011
+
 ## DATE:
 
 ## AIM: 
@@ -37,6 +41,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Screenshot 2024-04-26 084233](https://github.com/23005529/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/139842207/6700aca2-19ce-40ca-bc5e-901d7a228e35)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
